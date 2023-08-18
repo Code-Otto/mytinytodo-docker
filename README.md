@@ -3,6 +3,7 @@ Dockerfile for a tiny Docker container running the [MyTinyTodo](https://www.myti
 
 - MyTinyTodo version v1.7.4
 - Powered by Alpine Linux 3.18, Lighttpd 1.4.71 and PHP 8.2
+- Uses FastCGI for performance
 - <16MB RAM idle, 36MB disk space
 
 ## Installing
